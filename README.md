@@ -3,7 +3,9 @@
 This app made for a school project.
 
 <div class="row">
-  <img src="emlakcipresentation.png"/>
+  <img src="mockup0.png"/>
+  <img src="mockup1.png"/>
+  <img src="mockup2.png"/>
 </div>
 
 ## What is the KOU Basvuru Sistemi? What can you do in it?
