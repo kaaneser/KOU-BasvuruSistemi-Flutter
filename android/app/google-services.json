@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "121052633512",
+    "project_id": "kou-database",
+    "storage_bucket": "kou-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121052633512:android:3826924f71a4077754259d",
+        "android_client_info": {
+          "package_name": "com.example.yazgel_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121052633512-quj6tl89dibhv46pvaebk2dvkng49mpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7TLJ0FGJaeKZucZJWh5LJo1S3rJdQzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121052633512-quj6tl89dibhv46pvaebk2dvkng49mpe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121052633512-29243gjfj3a8633qutiv4mve6e4ponr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yazgelProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

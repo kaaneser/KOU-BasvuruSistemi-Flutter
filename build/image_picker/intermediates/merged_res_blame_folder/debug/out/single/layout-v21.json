@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kaan/Desktop/denemepy/yazgel_project/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/denemepy/yazgel_project/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/denemepy/yazgel_project/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/denemepy/yazgel_project/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kaan/Desktop/denemepy/yazgel_project/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/denemepy/yazgel_project/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/denemepy/yazgel_project/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/denemepy/yazgel_project/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]
