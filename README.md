@@ -45,7 +45,7 @@ This app made for a school project.
  - syncfusion_flutter_pdf for generating the user's petition form generations.
  - json_object_lite for making a post or convert the database models.
  - open_file for see the uploading files (It's a design choice)
- - path_provider to save or check the local storage paths
+ - path_provider to save or check the local storage paths.
 
 ---
 
